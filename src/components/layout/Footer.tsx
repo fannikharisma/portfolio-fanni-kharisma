@@ -7,7 +7,7 @@ export default function Footer() {
           <h2 className="text-2xl max-w-4xl mx-auto">I'm currently based in Batam, Indonesia. Feel free to reach out and let's collaborate to achieve great things together.</h2>
         </div>
         <div className="flex justify-center gap-10 mb-3 mt-3 text-3xl">
-          <a href="mailto:${user}@${domain}?subject=Opportunity" className="rounded-lg font-semibold border-2 p-4">
+          <a href="mailto:fanni.kharisma88@gmail.com?subject=Opportunity" className="rounded-lg font-semibold border-2 p-4">
             Email Me
           </a>
           <a href="https://www.linkedin.com/in/fanni-kharisma/" className="rounded-lg font-semibold border-2 p-4">
