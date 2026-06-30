@@ -10,10 +10,10 @@ export default function AboutMe() {
   return (
     <main>
       <section id="content" className="bg-slate-50 mt-10">
-        <div className="flex container mx-auto">
+        <div className="flex flex-col md:flex-row container mx-auto">
           {/* Left side */}
-          <div className=" w-1/4 p-8">
-            <div className="grid grid-row-2 gap-4">
+          <div className="w-full md:w-1/4 p-4 md:p-8">
+            <div className="grid gap-4">
               <div className="">
                 <ProfileCard />
               </div>
@@ -23,10 +23,10 @@ export default function AboutMe() {
             </div>
           </div>
           {/* Right side */}
-          <div className=" w-3/4 p-8">
+          <div className="w-full md:w-3/4 p-4 md:p-8">
             <Story />
             <Experience />
-            <div className="flex justify-between gap-4">
+            <div className="flex flex-col md:flex-row justify-between gap-4">
               <Certifications />
               <Skill />
             </div>

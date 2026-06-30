@@ -51,7 +51,7 @@ function SkillItem({ skill }: Props) {
 
 export default function Skill() {
   return (
-    <div className="rounded-2xl border border-slate-200 bg-white p-6 w-1/2">
+    <div className="rounded-2xl border border-slate-200 bg-white p-6 w-full md:w-1/2">
       <div className="flex gap-10 items-center mb-8">
         <PiMedal size={20} />
         <h3 className="font-bold">Core Skills</h3>
