@@ -28,7 +28,7 @@ export default function Navbar() {
         {/* navbar for large screens */}
         <ul className="md:flex space-x-8 hidden">
           <li>
-            <Link to="/HomePage" className={styles.link}>
+            <Link to="/" className={styles.link}>
               Home
             </Link>
           </li>

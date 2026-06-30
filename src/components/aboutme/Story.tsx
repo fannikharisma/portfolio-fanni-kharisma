@@ -27,7 +27,7 @@ export default function Story() {
       </div>
 
       <div className="p-1 w-1/3">
-        <img src="src/assets/dummy_profile1.png" alt="Fanni Kharisma Profile Image" className="rounded-3xl " />
+        <img src="/dummy_profile1.png" alt="Fanni Kharisma Profile Image" className="rounded-3xl " />
       </div>
     </div>
   );

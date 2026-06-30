@@ -59,7 +59,7 @@ export default function Hero() {
 
         {/* RIGHT SIDE */}
         <div className="w-1/4 p-5">
-          <img src="src/assets/dummy_profile2.jpg" alt="Fanni Kharisma Profile Image" className="w-112.5 rounded-3xl " />
+          <img src="/dummy_profile2.jpg" alt="Fanni Kharisma Profile Image" className="w-112.5 rounded-3xl " />
         </div>
       </div>
     </section>
