@@ -45,7 +45,7 @@ export default function Hero() {
 
           {/* BUTTONS */}
           <div className="flex gap-4">
-            <a href="src\assets\FKH_Resume.pdf" download="Fanni_Kharisma_Resume" className="px-6 py-3 bg-cyan-400 text-black rounded-lg font-semibold hover:bg-cyan-300 transition">
+            <a href="/FKH_Resume.pdf" download="Fanni_Kharisma_Resume" className="px-6 py-3 bg-cyan-400 text-black rounded-lg font-semibold hover:bg-cyan-300 transition">
               My Resume
             </a>
             {/* <a href="#" className="px-6 py-3 border border-slate-500 rounded-lg hover:border-cyan-400 hover:text-cyan-400 transition">
