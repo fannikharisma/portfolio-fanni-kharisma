@@ -2,7 +2,7 @@ import { FcWorkflow } from "react-icons/fc";
 import { FcAutomatic } from "react-icons/fc";
 // import { FcTodoList } from "react-icons/fc";
 import { FcDataConfiguration } from "react-icons/fc";
-import { FcServices } from "react-icons/fc";
+// import { FcServices } from "react-icons/fc";
 // import { FcMultipleDevices } from "react-icons/fc";
 
 const expertiseData = [
@@ -34,13 +34,13 @@ const expertiseData = [
     description: "Designing and building robust data pipelines and architectures for reliable insights.",
     skills: ["ETL / ELT", "Data Warehousing", "Databricks", "Tableau / Power BI"],
   },
-  {
-    title: "AI / ML",
-    icon: FcServices,
-    color: "text-orange-500",
-    description: "Building intelligent models and leveraging AI to solve real-world problems.",
-    skills: ["Machine Learning", "Python", "Model Deployment"],
-  },
+  // {
+  //   title: "AI / ML",
+  //   icon: FcServices,
+  //   color: "text-orange-500",
+  //   description: "Building intelligent models and leveraging AI to solve real-world problems.",
+  //   skills: ["Machine Learning", "Python", "Model Deployment"],
+  // },
   // {
   //   title: "Software Engineering",
   //   icon: FcMultipleDevices,
