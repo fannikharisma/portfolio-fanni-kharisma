@@ -13,7 +13,7 @@ const router = createBrowserRouter([
     element: <App />, // App berfungsi sebagai layout utama (Parent)
     children: [
       {
-        path: "/HomePage", // Jalur utama (domain.com/)
+        index: true, // Loads HomePage by default
         element: <HomePage />,
       },
       {
