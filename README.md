@@ -1,4 +1,4 @@
-# Fanni Kharisma's Portfolio
+# Fanni Kharisma's Portfolio - https://fannikharisma.my.id/
 
 This repository contains the personal portfolio website for Fanni Kharisma.
 
